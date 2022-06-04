@@ -1,0 +1,1 @@
+export {default as GtrisTempComponent} from './GtrisTempComponent.vue';
